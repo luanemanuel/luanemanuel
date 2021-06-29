@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋, my name is Luan and welcome to my profile!
 
-<!--
-**mikedark/mikedark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👀 About Me 
 
-Here are some ideas to get you started:
+- Currently at the age of 21, I am an engineering student at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a>
+- I have knowledge about JAVA, C and SQL 
+- I've been studying about mobile development, games and C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🗃 My Projects 
+
+I've currently been working on:
+- A discord bot called Akila
+- My own game with my friends 
+- College projects
+
+#### ✉ Contact Me 
+
+- Email: <a href=mailto:contato@luanemanuel.com.br>contato@luanemanuel.com.br</a>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mikedark)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luan-emanuel-14ab19215/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/themikedark)
+
+#### 📝Cool infos about me 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikedark&show_icons=true&count_private=true&show_icons=true&theme=tokyonight&hide=issues,prs)
+)  
+
