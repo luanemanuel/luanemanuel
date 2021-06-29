@@ -21,4 +21,4 @@ I've currently been working on:
 
 #### 📝Cool infos about me 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikedark&show_icons=true&count_private=true&show_icons=true&theme=tokyonight&hide=issues,prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanemanuel&show_icons=true&count_private=true&show_icons=true&theme=tokyonight&hide=issues,prs)
