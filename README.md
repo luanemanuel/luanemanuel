@@ -2,15 +2,15 @@
 
 #### 👀 About Me 
 
-- Currently at the age of 21, I am an computer engineering student at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a>
+- Currently at the age of 22, I am an computer engineering student at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a>
 - I have knowledge about JAVA, C, SQL, Dart and Flutter
 - I've been researching and studying about mobile development, games, C#, javascript, HTML and CSS
 
 #### 🗃 My Projects 
 
 I've currently been working on:
-- A discord bot called Akila and your site
 - My own game with my friends 
+- Internship projects
 - College projects
 
 #### ✉ Contact Me 
