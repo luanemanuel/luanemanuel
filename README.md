@@ -2,7 +2,7 @@
 
 #### 👀 About Me 
 
-- Currently at the age of 22, I am an computer engineering student at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a>
+- Currently at the age of 22, I am an software engineering student at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a>
 - I have knowledge about JAVA, C, SQL, Dart and Flutter
 - I've been researching and studying about GameDev, C#, Javascript, HTML and CSS
 
