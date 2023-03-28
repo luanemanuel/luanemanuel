@@ -2,7 +2,7 @@
 
 ## About Me 👀
 
-I am a 23-year-old software engineering student at [UTFPR](https://www.utfpr.edu.br/). My areas of expertise include Java, C, SQL, Dart, Flutter, Angular, HTML, CSS, javascript and TypeScript.
+I am a 23-year-old software engineering student at [UTFPR](https://www.utfpr.edu.br/). My areas of expertise include Java, C, Python, SQL, Dart, Flutter, Angular, HTML, CSS, javascript and TypeScript.
 I currently work at Tokenlab as a mobile developer using Flutter.
 
 ##  My Projects 🗃
