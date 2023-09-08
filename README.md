@@ -1,15 +1,13 @@
-#### Hi there 👋, my name is Luan and welcome to my profile!
+# Hi there 👋, my name is Luan and welcome to my profile!
 
 ## About Me 👀
 
-I am a 23-year-old software engineering student at [UTFPR](https://www.utfpr.edu.br/). My areas of expertise include Java, C, Python, SQL, Dart, Flutter, Angular, HTML, CSS, javascript and TypeScript.
-I currently work at Tokenlab as a mobile developer using Flutter.
+I am a 23-year-old Software Engineering student at [UTFPR](https://www.utfpr.edu.br/). My skills span various programming languages and technologies, including Java, C, Python, SQL, Dart, Flutter, Angular, HTML, CSS, JavaScript, and TypeScript. I am currently employed as a Mobile Developer specializing in Flutter at Tokenlab.
 
 ##  My Projects 🗃
 
-I am currently working on:
-- College projects
-- Creating and maintaining Flutter libraries such as [Focus_on_it](https://github.com/luanemanuel/focus_on_it/)
+Currently, I'm focused on:
+- Developing and maintaining Flutter libraries, including [focus_on_it](https://github.com/luanemanuel/focus_on_it/)
 
 ## Contact Me ✉
 
