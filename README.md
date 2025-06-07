@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" style="text-align: center">
-I am a 24-year-old brazilian Software Engineering student at UTFPR and mobile developer in Tokenlab. I am passionate about technology and I love to learn new things.
+I am a 25-year-old brazilian Software Engineering student at UTFPR and mobile developer in Tokenlab. I am passionate about technology and I love to learn new things.
 I am currently focused on mobile development with Flutter, Dart and Swift, but I also have experience web, backend and desktop development with a lot of technologies.
 </p>
 
