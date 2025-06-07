@@ -41,6 +41,7 @@ I am currently focused on mobile development with Flutter, Dart and Swift, but I
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
@@ -63,16 +64,17 @@ I am currently focused on mobile development with Flutter, Dart and Swift, but I
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-<img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains"
+<img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />
+<img src="https://img.shields.io/badge/-rabbitmq-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
 <h3 align="center" style="text-align: center">📫 How to reach me 📫</h3>
 
 <p align="center" style="text-align: center">
-<a href="https://www.linkedin.com/in/luan-emanuel-14ab19215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn" /></a>
-<a href="https://twitter.com/themikedark" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt="Twitter" /></a>
-<a href="mailto:contato@luanemanuel.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Gmail" /></a>
-<a href="https://luanemanuel.com.br/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white alt="Website" /></a>
+<a href="https://www.linkedin.com/in/luan-emanuel-14ab19215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/themikedark" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="mailto:contato@luanemanuel.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://luanemanuel.com.br/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
 
 <h3 align="center" style="text-align: center">📈 My GitHub Stats 📈</h3>
@@ -83,10 +85,8 @@ I am currently focused on mobile development with Flutter, Dart and Swift, but I
 </p>
 
 <p align="center" style="text-align: center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fluanemanuel1212%2Fhit-counter" alt="Hits" />
 <img src="https://komarev.com/ghpvc/?username=luanemanuel&color=blueviolet" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/luanemanuel?label=Followers&style=social" alt="Followers" />
 <img src="https://img.shields.io/github/stars/luanemanuel?style=social" alt="Stars" />
-
 </p>
 
