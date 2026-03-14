@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center" style="text-align: center">
-I am a 25-year-old brazilian Software Engineering student at UTFPR and mobile developer in Tokenlab. I am passionate about technology and I love to learn new things.
-I am currently focused on mobile development with Flutter, Dart and Swift, but I also have experience web, backend and desktop development with a lot of technologies.
+I am a 26-year-old Software Engineer, graduated from UTFPR. I am passionate about technology and I love to learn new things. Currently, I work as a mobile developer at Tokenlab, focusing on Flutter, Dart, and Swift. I also have a strong full-stack foundation, with over a year of solid backend experience, along with previous background in web and desktop development.
 </p>
 
 <h3 align="center" style="text-align: center">✨ Languages, frameworks and tools that i have experience ✨</h3>
